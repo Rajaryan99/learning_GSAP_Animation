@@ -19,6 +19,7 @@ body {
     height: 200px;
     width: 200px;
     background-color: crimson;
+
 }
 
 
@@ -26,4 +27,8 @@ body {
     height: 200px;
     width: 200px;
     background-color: rgb(39, 114, 25);
+}
+
+h1 {
+    color: white;
 }
